@@ -27,7 +27,7 @@ class OnboardingPage extends StatelessWidget {
             ),
           ),
           Text(
-            'e economize mais!',
+            'e economize mais!!',
             textAlign: TextAlign.center,
             style: AppTextStyles.mediumText.copyWith(
               color: AppColors.greenlightTwo,
